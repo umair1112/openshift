@@ -1,0 +1,4 @@
+openshift
+=========
+
+OpenShift Project file
